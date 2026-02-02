@@ -20,8 +20,8 @@ The dataset is from Kaggle about Sephora. The dataset contains information about
 
 I used a Jupyter Notebook to:
 
--Load and explore the data
+- Load and explore the data
 
--Create simple summaries statistics
+- Create simple summaries statistics
 
 - Produce simple charts to visualize ratings and brands
