@@ -12,6 +12,7 @@ The analysis focuses on understanding:
 - How many products each brand offers
 
 - The relationship between ratings and review counts
+Basically, I wanted to understand what the data says about product performance.
 
 Dataset
 
@@ -28,6 +29,22 @@ Dataset
 - Engagement related metrics
 
 - The data was sourced from Kaggle.
+
+What Did I Actually Do?
+
+- Loaded the dataset into Python
+
+- Cleaned the data (because real data is messy)
+
+- Grouped and summarized it by brand
+
+- Looked at rating averages
+
+- Explored review counts
+
+- Created summaries to understand trends
+
+- In Part 2, I improved the structure, cleaned up the project, and organized it better using Git branches.
 
 Tools Used
 
