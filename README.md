@@ -12,6 +12,7 @@ The analysis focuses on understanding:
 - How many products each brand offers
 
 - The relationship between ratings and review counts
+
 Basically, I wanted to understand what the data says about product performance.
 
 Dataset
