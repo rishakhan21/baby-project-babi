@@ -1,27 +1,38 @@
-This baby project looks at a product dataset.
+Sephora Product Data Analysis
+Project Overview
 
-The goal is to explore the data and understand basic patterns like ratings
+This project analyzes a Sephora product dataset from Kaggle.
+The goal is to explore product level data and identify patterns in customer ratings, brand distribution, and product engagement.
 
-and how many products each brand has.
+The analysis focuses on understanding:
 
+How ratings vary across products
 
+How many products each brand offers
 
-The dataset is from Kaggle about Sephora. The dataset contains information about products such as:
+The relationship between ratings and review counts
 
-- Product name
+Dataset
 
-- Brand name
+The dataset contains information about Sephora beauty products, including:
 
-- Customer ratings
+Product name
 
-- Number of reviews and engagement
+Brand name
 
+Customer rating
 
+Number of reviews
 
-I used a Jupyter Notebook to:
+Engagement-related metrics
 
-- Load and explore the data
+The data was sourced from Kaggle.
 
-- Create simple summaries statistics
+Tools Used
 
-- Produce simple charts to visualize ratings and brands
+Python
+
+Pandas
+
+Jupyter Notebook
+
