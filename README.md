@@ -51,7 +51,19 @@ Tools Used
 
 - Python
 - Pandas
-- JupyterNotebook
+- JupyterNotbook
+
+Why This Project Matters
+
+Companies like Sephora could use this type of analysis to:
+
+- Identify strong brands
+
+- Understand customer engagement
+
+- Spot trends in product performance
+- Make choices based on performance and orangize stock
+
 
 
 
